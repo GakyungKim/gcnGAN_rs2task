@@ -97,7 +97,7 @@ if __name__ == "__main__":
                 rh_subj_rest2_lr_data = extract_ts_from_mesh(rh_subj_rest2_lr_file)
                 rh_subj_rest2_rl_data = extract_ts_from_mesh(rh_subj_rest2_rl_file)
 
-		## concatenate each hemi information (raw)
+		## concatenate each hemi information (from raw data)
                 lh_data = np.concatenate((lh_subj_rest1_lr_data, lh_subj_rest1_rl_data, lh_subj_rest2_lr_data, lh_subj_rest2_rl_data), axis=1)
                 rh_data = np.concatenate((rh_subj_rest1_lr_data, rh_subj_rest1_rl_data, rh_subj_rest2_lr_data, rh_subj_rest2_rl_data), axis=1)
 
@@ -109,10 +109,12 @@ if __name__ == "__main__":
    
                     if not os.path.exists(subj_rsfc_file):
 
-				## need a discussion with junbeom
+			## need a discussion with junbeom
+			## derive each individual's FC fingerprint through Pearson's correlation analysis 
                         ts = np.arange(i*sample_length, (i+1)*sample_length)
                         lh_subj_conn = compute_corr_coeff(lh_data[:, ts], subj_node_ts[:, ts])
                         rh_subj_conn = compute_corr_coeff(rh_data[:, ts], subj_node_ts[:, ts])
+			
                         lh_subj_conn[np.isnan(lh_subj_conn)] = 0
                         rh_subj_conn[np.isnan(rh_subj_conn)] = 0
     
