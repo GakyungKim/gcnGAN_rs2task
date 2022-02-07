@@ -1,0 +1,105 @@
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1dXV_rICh53CqtiRaQyvO3mIo74G8CnYi'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1dXV_rICh53CqtiRaQyvO3mIo74G8CnYi" -O fmriprep-deri-NDARINV0A4ZDYNL.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1cKm28i8xB-MRnh3OutyRuG7eVScqUg5X'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1cKm28i8xB-MRnh3OutyRuG7eVScqUg5X" -O fmriprep-deri-NDARINV0A6WVRZY.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1I1RkkRNsaw5OsM2M2vAFN10eApeOvXiz'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1I1RkkRNsaw5OsM2M2vAFN10eApeOvXiz" -O fmriprep-deri-NDARINV0A9K5L4R.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1PCMsuCXjPyG_SvirTPK6COMUyitHOoS5'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1PCMsuCXjPyG_SvirTPK6COMUyitHOoS5" -O fmriprep-deri-NDARINV0A86UD86.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1xL54q4OnFUt3ihmWaTYbMAiUhVGV5e_t'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1xL54q4OnFUt3ihmWaTYbMAiUhVGV5e_t" -O fmriprep-deri-NDARINV0A87RKWD.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1xT4HQsdu4nvLSRWTRRst8UpUyw0HlwxZ'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1xT4HQsdu4nvLSRWTRRst8UpUyw0HlwxZ" -O fmriprep-deri-NDARINV0AEBMADL.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=197uJGTOduaOmp43dFvKz9or_uaQQx8sW'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=197uJGTOduaOmp43dFvKz9or_uaQQx8sW" -O fmriprep-deri-NDARINV0APJMRD1.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1txJNqifoyjngpsIPtiFtuWtTBYCSoOnk'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1txJNqifoyjngpsIPtiFtuWtTBYCSoOnk" -O fmriprep-deri-NDARINV0AU5R8NA.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1FC-wKszf1WNH_GdeIYHrk14dRu_58y79'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1FC-wKszf1WNH_GdeIYHrk14dRu_58y79" -O fmriprep-deri-NDARINV0AYJMFMW.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1UT5jJth4kT07hoxOc6_NSvML9uNYz6Zm'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1UT5jJth4kT07hoxOc6_NSvML9uNYz6Zm" -O fmriprep-deri-NDARINV0B0HVEYX.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1LHsiX91MM1Phdd3eVdIbA1kA6gb1iqtw'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1LHsiX91MM1Phdd3eVdIbA1kA6gb1iqtw" -O fmriprep-deri-NDARINV0B3PHZ2W.tar && rm -rf ~/cookies.txt 
+
+### not found
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1W6DCfWuy8_C4fwpUq1Ds-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1W6DCfWuy8_C4fwpUq1Ds -O fmriprep-deri-NDARINV0B7UGM1D.tar  && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=12FerpoEr_sUzVZDSXwlnCW38DwOAZca2'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=12FerpoEr_sUzVZDSXwlnCW38DwOAZca2" -O fmriprep-deri-NDARINV00BD7VDC.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1qgX0KWg0Irlko9nfAcWIkO0ZF-hFjpdG'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1qgX0KWg0Irlko9nfAcWIkO0ZF-hFjpdG" -O fmriprep-deri-NDARINV0BEHBEJ3.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1Pbo4aTr0t8Vvj2XkcI8K_EQVba2LO0QA'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1Pbo4aTr0t8Vvj2XkcI8K_EQVba2LO0QA" -O fmriprep-deri-NDARINV0BG53R96.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1J0SWcGGbqWYtbWHsPw8i0LlU7wGl55MT'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id= 1J0SWcGGbqWYtbWHsPw8i0LlU7wGl55MT" -O fmriprep-deri-NDARINV0BL9EL2Y.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1GYgqcYutprC_7HJtdz3_8LTZaWeNMm_3'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1GYgqcYutprC_7HJtdz3_8LTZaWeNMm_3" -O fmriprep-deri-NDARINV0BVP2PTD.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1cyKWSw8g9B7s0bzixVRJj65ICNNRObi4'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1cyKWSw8g9B7s0bzixVRJj65ICNNRObi4" -O fmriprep-deri-NDARINV0BXXNBH4.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1UCRgIfdDNca1IIMxBdy5VrBTPzMSGn8A'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1UCRgIfdDNca1IIMxBdy5VrBTPzMSGn8A" -O fmriprep-deri-NDARINV0C471G23.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1_sOTo3oc9WAQ-7vRSenqtZhlJr-IjDA_'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1_sOTo3oc9WAQ-7vRSenqtZhlJr-IjDA_" -O fmriprep-deri-NDARINV0C765WK4.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=19yuHaE8_jao4zOBfmeLY7SbOIh4579z5'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=19yuHaE8_jao4zOBfmeLY7SbOIh4579z5" -O fmriprep-deri-NDARINV0CBFTKR7.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1MphyxuB-u15SDCjwFQP2qFj-pXup33p7'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1MphyxuB-u15SDCjwFQP2qFj-pXup33p7" -O fmriprep-deri-NDARINV0CBPKF6W.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1ZXzsSOj8JJckdyFwxaTbd6KoAZrNNrqy'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1ZXzsSOj8JJckdyFwxaTbd6KoAZrNNrqy" -O fmriprep-deri-NDARINV0CCMBWPE.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1NZx8TtvvMAWS9bQBYe4QpOREq9Y30eCX'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1NZx8TtvvMAWS9bQBYe4QpOREq9Y30eCX" -O fmriprep-deri-NDARINV0CCVJ39W.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=15dQnFpD4U7CXe5jq8ZOeY16A7jKV6EW1'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=15dQnFpD4U7CXe5jq8ZOeY16A7jKV6EW1" -O fmriprep-deri-NDARINV0CF1U8X8.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=183GSk40qR-uThgBNV1M_o3JZo71SdfDm'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=183GSk40qR-uThgBNV1M_o3JZo71SdfDm" -O fmriprep-deri-NDARINV0CFR33F0.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iCWuCdVEqQ3p1LWVfdyjj0_aKinUAHM2'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1iCWuCdVEqQ3p1LWVfdyjj0_aKinUAHM2" -O fmriprep-deri-NDARINV0CKA3YZX.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1xhZhXDVaKI0Eb08svVr9pV_iHwnRb2D4'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1xhZhXDVaKI0Eb08svVr9pV_iHwnRb2D4" -O fmriprep-deri-NDARINV0CP9XGTP.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1kKKxz4i3R3cin-TnEqn757X6T9TuR5en'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1kKKxz4i3R3cin-TnEqn757X6T9TuR5en" -O fmriprep-deri-NDARINV0CRTHE21.tar && rm -rf ~/cookies.txt 
+
+##not found
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1DkXJyKD62RfIpSqROQHD-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1DkXJyKD62RfIpSqROQHDHbEXc-8Ld2yY" -O fmriprep-deri-NDARINV0CTJAAHC.tar && rm -rf ~/cookies.txt 
+
+##not found
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=HbEXc-8Ld2yY'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id= 1DkXJyKD62RfIpSqROQHDHbEXc-8Ld2yY" -O fmriprep-deri-NDARINV0CTJAAHC.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1raM85Yq-rmJHfboxSx-kp5LwEMQuUurE'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1raM85Yq-rmJHfboxSx-kp5LwEMQuUurE" -O fmriprep-deri-NDARINV0CV2Y4YR.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1OU6ElmGI_UboDeFnRMsbS0Nz2T9IFout'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1OU6ElmGI_UboDeFnRMsbS0Nz2T9IFout" -O fmriprep-deri-NDARINV00CY2MDM.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1GAZbPXoFAKqjM-6CUUVCGo4NiYrj-cuV'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1GAZbPXoFAKqjM-6CUUVCGo4NiYrj-cuV" -O fmriprep-deri-NDARINV0CZBUV4C.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iOUP36FlC-ejUV5REGmDN1pkzzC4obGm'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1iOUP36FlC-ejUV5REGmDN1pkzzC4obGm" -O fmriprep-deri-NDARINV0D4C1R8X.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1gIgDpmQUtgLHLToeyglbg9ReSFi7XMEb'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1gIgDpmQUtgLHLToeyglbg9ReSFi7XMEb" -O fmriprep-deri-NDARINV0D5J9T8P.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1WLRaBuk_Q-KKxIucOuxqHVYWs5izycLz'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1WLRaBuk_Q-KKxIucOuxqHVYWs5izycLz" -O fmriprep-deri-NDARINV0D83M5VE.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=14ay4C7ksvx8YlV-aUhjjkG9yRBGxHU5c'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=14ay4C7ksvx8YlV-aUhjjkG9yRBGxHU5c" -O fmriprep-deri-NDARINV0DBRJXKG.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1zsnoGwn6bZxp4hBchig0hnlbT6Nu7UlU'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1zsnoGwn6bZxp4hBchig0hnlbT6Nu7UlU" -O fmriprep-deri-NDARINV0DC9BJZK.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1DUIp57vHIhC8yyN2z3E15miZFMcjPPtA'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1DUIp57vHIhC8yyN2z3E15miZFMcjPPtA" -O fmriprep-deri-NDARINV0DG8XR2P.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1Kdrzoy1upSuMQ4rWlZthf1WnCpuj8xn1'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1Kdrzoy1upSuMQ4rWlZthf1WnCpuj8xn1" -O fmriprep-deri-NDARINV0DJJP33V.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1eOXf5lqoAwHhBiv_BTEMJ5FbeRyv56Mb'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1eOXf5lqoAwHhBiv_BTEMJ5FbeRyv56Mb" -O fmriprep-deri-NDARINV0DKWEM1A.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=11IIhv-W-A-9Afg9jOM_idXYdkpEDzFQ_'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=11IIhv-W-A-9Afg9jOM_idXYdkpEDzFQ_" -O fmriprep-deri-NDARINV0DMRP60R.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1vRckN4EOWszgdygvhgpiJkYjaX4Ih3Vv'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1vRckN4EOWszgdygvhgpiJkYjaX4Ih3Vv" -O fmriprep-deri-NDARINV0DUXE0ZA.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1392EiGjGmFNRNGsmOK4aOaeNqbS5YqQb'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1392EiGjGmFNRNGsmOK4aOaeNqbS5YqQb" -O fmriprep-deri-NDARINV0DVK13LU.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1WiCVMR1Uz1dx809Vklw1G0luZkq1uKm4'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1WiCVMR1Uz1dx809Vklw1G0luZkq1uKm4" -O fmriprep-deri-NDARINV0DWBRWHT.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1tm4U87VG1W5s9J1NQhVodXCeEf64LfRo'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1tm4U87VG1W5s9J1NQhVodXCeEf64LfRo" -O fmriprep-deri-NDARINV0DYF4WPG.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1EpK4oCMlHd3wbue77rZIu7qCW18DeZa3'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1EpK4oCMlHd3wbue77rZIu7qCW18DeZa3" -O fmriprep-deri-NDARINV0E1RBR9J.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1ARW6LTR0fXJW2J7OO-tYAR8RUO3G_5GH'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1ARW6LTR0fXJW2J7OO-tYAR8RUO3G_5GH" -O fmriprep-deri-NDARINV0E4CT74P.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1iFIHT9aE721Gi2YLWV_7wrzgGcEsnWQC'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1iFIHT9aE721Gi2YLWV_7wrzgGcEsnWQC" -O fmriprep-deri-NDARINV0E9UFT0K.tar && rm -rf ~/cookies.txt 
+
+wget --load-cookies ~/cookies.txt "https://docs.google.com/uc?export=download&confirm=$(wget --quiet --save-cookies ~/cookies.txt --keep-session-cookies --no-check-certificate 'https://docs.google.com/uc?export=download&id=1hpUCToEDo51wY-QohNuOXUiPyZkA1ajJ'-O- | sed -rn 's/.*confirm=([0-9A-Za-z_]+).*/\1\n/p')&id=1hpUCToEDo51wY-QohNuOXUiPyZkA1ajJ" -O fmriprep-deri-NDARINV0E350J5D.tar && rm -rf ~/cookies.txt 
+
