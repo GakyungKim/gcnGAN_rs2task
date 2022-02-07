@@ -48,7 +48,7 @@ def extract_ts_from_mesh(mesh_file, num_ts=1200):
     mesh = gi.read(mesh_file)
     data = []
 
-		## append data for range(num_ts)
+    ## append data for range(num_ts)
     if (num_ts != len(mesh.darrays)):
         print(len(mesh.darrays))
     assert(num_ts == len(mesh.darrays))
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     
         subj_node_ts_file = os.path.join(args.node_ts_dir, "%s.txt" % subj_id)
        
-				## if subj have all ts node & 4 rsfMRI of each session,         
+	## if subj have all ts node & 4 rsfMRI of each session,         
         if os.path.exists(subj_node_ts_file) and os.path.exists(lh_subj_rest1_lr_file) and os.path.exists(lh_subj_rest1_rl_file) and os.path.exists(lh_subj_rest2_lr_file) and os.path.exists(lh_subj_rest2_rl_file):
             try:
                 lh_subj_rest1_lr_data = extract_ts_from_mesh(lh_subj_rest1_lr_file)
@@ -97,11 +97,11 @@ if __name__ == "__main__":
                 rh_subj_rest2_lr_data = extract_ts_from_mesh(rh_subj_rest2_lr_file)
                 rh_subj_rest2_rl_data = extract_ts_from_mesh(rh_subj_rest2_rl_file)
 
-		    ## concatenate each hemi information (raw)
+		## concatenate each hemi information (raw)
                 lh_data = np.concatenate((lh_subj_rest1_lr_data, lh_subj_rest1_rl_data, lh_subj_rest2_lr_data, lh_subj_rest2_rl_data), axis=1)
                 rh_data = np.concatenate((rh_subj_rest1_lr_data, rh_subj_rest1_rl_data, rh_subj_rest2_lr_data, rh_subj_rest2_rl_data), axis=1)
 
-		    ## load ts info and .T
+		## load ts info and .T
                 subj_node_ts = np.genfromtxt(subj_node_ts_file).T
     
                 for i in range(args.num_samples):
