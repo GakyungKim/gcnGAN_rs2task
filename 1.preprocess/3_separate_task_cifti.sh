@@ -24,10 +24,10 @@ do
             SUBJ_OUT_DIR=$OUTPUT_DIR/$SUBJECT/$TASK/cope$COPEID.feat
             mkdir -p $SUBJ_OUT_DIR
             
-            ## input
+            # input
             CIFTI_FILE=$SUBJ_DIR/MNINonLinear/Results/tfMRI_$TASK/tfMRI_${TASK}_hp200_s2_level2_MSMAll.feat/GrayordinatesStats/cope${COPEID}.feat/zstat1.dtseries.nii
 
-            ## output
+            # output
             LH_NIFTI_FILE=$SUBJ_OUT_DIR/zstat1.L.func.gii
             RH_NIFTI_FILE=$SUBJ_OUT_DIR/zstat1.R.func.gii
             SUBCORTICAL_FILE=$SUBJ_OUT_DIR/zstat1.subcortical.nii.gz
