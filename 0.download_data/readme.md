@@ -2,7 +2,7 @@
 1. Set up conda environment with the `environment.yml` file provided:
 ```
 conda env create -f environment.yml
-source activate brain_surf_cnn
+source activate ganbert_betty
 ```
 Please note that the Pytorch version used in our experiments were installed with CUDA 10.2, but the code is compatible with CUDA 9 as well.
 
