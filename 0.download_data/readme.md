@@ -4,7 +4,8 @@
 conda env create -f environment.yml
 source activate ganbert_betty
 ```
-Please note that the Pytorch version used in our experiments were installed with CUDA 10.2, but the code is compatible with CUDA 9 as well.
+- Change the name and prefix according to your environment in `environment.yml`
+- Please note that the Pytorch version used in our experiments were installed with CUDA 10.2, but the code is compatible with CUDA 9 as well.
 
 2. Download HCP Workbench [https://www.humanconnectome.org/software/get-connectome-workbench](https://www.humanconnectome.org/software/get-connectome-workbench) for data preprocessing.
 
