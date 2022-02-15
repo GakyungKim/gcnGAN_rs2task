@@ -1,7 +1,8 @@
 #!/bin/bash
 
 WB_COMMAND=/usr/bin/wb_command #path to binary for wb_command
-HCP_DIR=/home/connectome/bettybetty3k/0.myResearch/GANBERT/data #path to directory containing HCP cifti timeseries
+#HCP_DIR=/home/connectome/bettybetty3k/0.myResearch/GANBERT/data #path to directory containing HCP cifti timeseries
+HCP_DIR=/scratch/bigdata/hcp1200/data
 SUBJECT_PATH=/home/connectome/bettybetty3k/0.myResearch/GANBERT #path to HCP subject IDs
 OUTPUT_DIR=/home/connectome/bettybetty3k/0.myResearch/GANBERT/output #path to OUTdir
 
